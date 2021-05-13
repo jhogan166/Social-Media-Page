@@ -1,0 +1,34 @@
+.inspired { 
+    border:1px black solid;
+    margin:15px;
+    padding:5px;
+    background-color:blue;
+    flex-grow:20;
+}
+.thoughts {
+     border:1px black solid;
+     margin:15px;
+     padding:5px;
+    background-color:green;
+}
+.interests {
+    border:1px black solid;
+    margin:15px;
+    padding:5px;
+    background-color:red;
+}
+.all {
+    border:solid 10px green;
+}
+.ps4   {
+      height:365px;
+      width:365px;
+      
+}
+.nav   {
+     border:1px black solid;
+     margin:10px;
+     padding:5px;
+     display:flex;
+     justify-content:center;
+}
